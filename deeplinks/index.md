@@ -15,7 +15,7 @@
 *   [her://my_profile/edit/properties/10](her://my_profile/edit/properties/10) Edit a Fun Fact type
 *   [her://my_profile/edit/properties/18](her://my_profile/edit/properties/18) Edit Pride Pins
 
-### Needs implementation (on Both Clients i think)
+### Needs implementation on Both Clients
 *   [her://my_profile/events](her://my_profile/events) My Events Page
 *   [her://my_profile/feed](her://my_profile/feed) My Feed Page
 
@@ -28,13 +28,13 @@
 *   [her://user/3620800/events](her://user/3620800/events) User's Events
 
 ## Meet
-*   [her://meet](her://meet) Open Meet on Browse. (iOS) / {Android behavior needed}  
-*   [her://meet/likedme](her://my_profile/likedme) Open Meet on WLM (iOS) / { Android behavior needed}
-*   [her://likedme](her://likedme) Open Meet on WLM (iOS) / { Android behavior needed}
-*   [her://meet/online](her://my_profile/online) Open Meet on Online Now (iOS) { Android behavior needed }
-*   [her://onlinenow](her://onlinenow) Open Meet on Online Now (iOS) / { Android behavior needed}
-*   [her://meet/likedme](her://my_profile/likedme) Open Meet on WLM (iOS) / { Android behavior needed}
-*   [her://location](her://location) Open Meet and navigate to Change Location (iOS) / { Android behavior needed}
+*   [her://meet](her://meet) Open Meet on Browse. (iOS) / Not supported (Android)  
+*   [her://meet/likedme](her://meet/likedme) Open Meet on WLM (iOS) / Not supported (Android) 
+*   [her://likedme](her://likedme) Open Meet on WLM (iOS) / Open WLM screen (Android)
+*   [her://meet/online](her://meet/online) Open Meet on Online Now (iOS) / Not supported (Android) 
+*   [her://onlinenow](her://onlinenow) Open Meet on Online Now (iOS) / Open Online Now (Android) 
+*   [her://meet/likedme](her://meet/likedme) Open Meet on WLM (iOS) / Open WLM screen (Android)
+*   [her://location](her://location) Open Meet and navigate to Change Location (iOS & Android)
 
 ## Chat
 *   [her://chats](her://chats) Open Chats tab (iOS) / { Android behavior needed}
