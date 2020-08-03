@@ -85,5 +85,5 @@ Note: Any of the above URL params can be used in combination
 
 *   [https://weareher.com/feed/posts/1241](https://weareher.com/feed/posts/1241) A feed post
 *   [https://weareher.com/shared-profile?u=JAKM3D5Y4EzP](https://weareher.com/shared-profile?u=JAKM3D5Y4EzP) Profile in prod
-*   [https://testing.weareher.com/shared-profile?u=0pR9p6O1V2wm](https://testing.weareher.com/shared-profile?u=0pR9p6O1V2wm) Profile in testing
+*   [https://testing.weareher.com/shared-profile?u=bJO69Y19Bkvr](https://testing.weareher.com/shared-profile?u=0pR9p6O1V2wm) Profile in testing
 
