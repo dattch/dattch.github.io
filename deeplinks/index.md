@@ -6,7 +6,7 @@
 *   [her://my_profile](her://my_profile) My Profile Page
 *   [her://my_profile/edit](her://my_profile/edit) Edit Profile page
 *   [her://my_profile/friends](her://my_profile/friends) My Friends Page
-*   [her://my_profile/preview](her://my_profile/preview) My Profile Page **deprecated, needs removal from clients**
+*   ~~[her://my_profile/preview](her://my_profile/preview)~~ My Profile Page **deprecated, needs removal from iOS**
 
 ### Properties By Type
 *   [her://my_profile/edit/properties/1](her://my_profile/edit/properties/1) Edit Height
@@ -43,32 +43,32 @@
 *   [her://chat_init_with_like/3620800](her://chat_init_with_like/3620800) Open Chat with user and like user (iOS) / { Android behavior needed}
 
 ## Feed
-*   [her://feed/post/{id}](her://feed/post/{id}) Open post, after navigating to feed tab(iOS) / { Android behavior needed}
-*   [her://feed/community/20](her://feed/community/20) Open Community, after navigation to feed tab (iOS) / { Android behavior needed}
-*   [her://community/20](her://community/20) Open Community, **NO** navigation to feed tab (iOS) / { Android behavior needed}
-*   [her://feed/communities](her://feed/communities) Open Community list tab, after navigation to feed tab (iOS) / { Android behavior needed}
-*   [her://feed/events](her://feed/events) Open Events list tab, after navigation to feed tab (iOS) / { Android behavior needed}
-*   [her://events](her://feed/events) Open Events list tab, after navigation to feed tab (iOS) / { Android behavior needed}
-*   [her://ads/{id}/campaign/{id}](her://ads/{id}/campaign/{id}) **deprecated, needs removal from clients**
+*   [her://feed/post/1](her://feed/post/1) Open post, after navigating to feed tab(iOS) / Open post details (Android)
+*   [her://feed/community/20](her://feed/community/20) Open Community, after navigation to feed tab (iOS) / Open Community details (Android)
+*   [her://community/20](her://community/20) Open Community, **NO** navigation to feed tab (iOS) / Not supported (Android) 
+*   [her://feed/communities](her://feed/communities) Open Community list tab, after navigation to feed tab (iOS & Android)
+*   [her://feed/events](her://feed/events) Open Events list tab, after navigation to feed tab (iOS) / Not supported (Android) 
+*   [her://events](her://events) Open Events list tab, after navigation to feed tab (iOS) / Not supported (Android) 
+*   ~~[her://ads/{id}/campaign/{id}](her://ads/{id}/campaign/{id})~~ **deprecated, needs removal from iOS**
 
 ## Notifications
 *   [her://notifications](her://notifications) Open Notifications Tab
 *   [her://confirm_friends](her://confirm_friends) Open's Profile.  I don't think it confirms friendship? / { Android behavior needed}
 
 ## Boosts
-*   [her://boosts](her://boosts) If user has boosts open use boost page, else open purchase page / { Android behavior needed}
+*   [her://boosts](her://boosts) If user has boosts open use boost page, else open purchase page (iOS) / Not supported (Android) 
     #### Query Params for her://boosts
-*   [her://boosts?open=buy](her://boosts?open=buy) Open boosts purchase page regardless of number of boosts / { Android behavior needed}
-*   [her://boosts?origin_identifier=test_identifier](her://boosts) Same as her://boosts but change the origin of the purchase page / { Android behavior needed}
-*   [her://boosts?success_origin_identifier=success_test_identifier](her://boosts) Same as her://boosts but change the origin of the success / usage page / { Android behavior needed}
+*   [her://boosts?open=buy](her://boosts?open=buy) Open boosts purchase page regardless of number of boosts (iOS) / Not supported (Android) 
+*   [her://boosts?origin_identifier=test_identifier](her://boosts) Same as her://boosts but change the origin of the purchase page (iOS) / Not supported (Android) 
+*   [her://boosts?success_origin_identifier=success_test_identifier](her://boosts) Same as her://boosts but change the origin of the success / usage page (iOS) / Not supported (Android) 
 
 Note: Any of the above URL params can be used in combination
 
 ## Premium
-*   [her://premium](her://premium) Open PPP / { Android behavior needed}
-*   [her://premium/ABCD](her://premium/ABCD) Open PPP with voucher being used / { Android behavior needed}
-*   [her://premium/feature/11](her://premium/feature/11) Open PPP to designated feature image / { Android behavior needed}
-*   [her://premium/terms](her://premium/terms) **deprecated, needs removal from clients**
+*   [her://premium](her://premium) Open PPP (iOS & Android)
+*   [her://premium/ABCD](her://premium/ABCD) Open PPP with voucher being used (iOS & Android)
+*   [her://premium/feature/11](her://premium/feature/11) Open PPP to designated feature image (iOS) / Not supported (Android)
+*   ~~[her://premium/terms](her://premium/terms)~~ **deprecated, needs removal from iOS**
 
 ## Settings
 *   [her://account_settings](her://account_settings) Open In-App Settings Page / { Android behavior needed}
@@ -77,7 +77,7 @@ Note: Any of the above URL params can be used in combination
 *   [her://account_settings/account](her://account_settings/account) Open Account Information Page from HER Settings / { Android behavior needed}
 
 ## General
-*   [her://mixher](her://mixher)  **deprecated, needs removal from clients**
+*   ~~[her://mixher](her://mixher)~~  **deprecated, needs removal from clients**
 *   [her://filters](her://filters) Open Filters for Meet(no pre-nav) / { Android behavior needed}
 *   [her://verification](her://verification) Open Verification at whatever step user is at / { Android behavior needed}
 
