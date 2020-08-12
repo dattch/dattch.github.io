@@ -71,10 +71,10 @@ Note: Any of the above URL params can be used in combination
 *   ~~[her://premium/terms](her://premium/terms)~~ **deprecated, needs removal from iOS**
 
 ## Settings
-*   [her://account_settings](her://account_settings) Open In-App Settings Page / { Android behavior needed}
-*   [her://account_settings/push](her://account_settings/push) Open iOS Settings App for HER Settings / { Android behavior needed}
-*   [her://account_settings/push_settings](her://account_settings/push_settings) Open Push Settings Page from HER Settings / { Android behavior needed}
-*   [her://account_settings/account](her://account_settings/account) Open Account Information Page from HER Settings / { Android behavior needed}
+*   [her://account_settings](her://account_settings) Open In-App Settings Page (iOS & Android)
+*   [her://account_settings/push](her://account_settings/push) Open OS Settings App for HER (iOS & Android)
+*   [her://account_settings/push_settings](her://account_settings/push_settings) Open Push Settings Page from HER Settings (iOS) / Not supported (Android) 
+*   [her://account_settings/account](her://account_settings/account) Open Account Information Page from HER Settings (iOS & Android)
 
 ## General
 *   ~~[her://mixher](her://mixher)~~  **deprecated, needs removal from clients**
