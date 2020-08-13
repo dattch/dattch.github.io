@@ -1,5 +1,4 @@
 # HER Deeplinks
-
 *   [her://](her://) Open app
 
 ## My Profile
@@ -7,6 +6,10 @@
 *   [her://my_profile/edit](her://my_profile/edit) Edit Profile page
 *   [her://my_profile/friends](her://my_profile/friends) My Friends Page
 *   ~~[her://my_profile/preview](her://my_profile/preview)~~ My Profile Page **deprecated, needs removal from iOS**
+
+### Questions (In Development)
+*   [her://my_profile/edit/questions/1](her://my_profile/edit/questions/1) Open question with id 1
+*   [her://my_profile/edit/questions](her://my_profile/edit/questions) Open questions
 
 ### Properties By Type
 *   [her://my_profile/edit/properties/1](her://my_profile/edit/properties/1) Edit Height
