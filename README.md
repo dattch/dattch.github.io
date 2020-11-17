@@ -1,2 +1,2 @@
 # dattch.github.io
-A website used for testing
+A website used for testing HER deeplinks
