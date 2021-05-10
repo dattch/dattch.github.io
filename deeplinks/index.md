@@ -50,6 +50,7 @@
 *   [her://feed/community/20](her://feed/community/20) Open Community, after navigation to feed tab (iOS) / Open Community details (Android)
 *   [her://community/20](her://community/20) Open Community, **NO** navigation to feed tab (iOS) / Not supported (Android) 
 *   [her://feed/communities](her://feed/communities) Open Community list tab, after navigation to feed tab (iOS & Android)
+*   [her://feed/filters](her://feed/filters) Open Feed filters, after navigation to feed tab (iOS & Android)
 *   [her://feed/events](her://feed/events) Open Events list tab, after navigation to feed tab (iOS) / Not supported (Android) 
 *   [her://events](her://events) Open Events list tab, after navigation to feed tab (iOS) / Not supported (Android) 
 *   ~~[her://ads/{id}/campaign/{id}](her://ads/{id}/campaign/{id})~~ **deprecated, needs removal from iOS**
