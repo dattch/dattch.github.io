@@ -5,7 +5,7 @@
 *   [her://my_profile](her://my_profile) My Profile Page
 *   [her://my_profile/edit](her://my_profile/edit) Edit Profile page
 *   [her://my_profile/friends](her://my_profile/friends) My Friends Page
-*   ~~[her://my_profile/preview](her://my_profile/preview)~~ My Profile Page **deprecated, needs removal from iOS**
+*   ~~[her://my_profile/preview](her://my_profile/preview)~~ Deprecated, fallsback to My Profile page.
 
 ### Questions (In Development)
 *   [her://my_profile/edit/questions/1](her://my_profile/edit/questions/1) Open question with id 1
@@ -31,21 +31,22 @@
 *   [her://user/3620800/events](her://user/3620800/events) User's Events
 
 ## Meet
-*   [her://meet](her://meet) Open Meet on Browse. (iOS) / Not supported (Android)  
-*   [her://meet/likedme](her://meet/likedme) Open Meet on WLM (iOS) / Not supported (Android) 
+*   [her://meet](her://meet) Open Meet on Browse. (iOS & Android)
+*   [her://meet/likedme](her://meet/likedme) Open Meet on WLM (iOS & Android) 
 *   [her://likedme](her://likedme) Open Meet on WLM (iOS) / Open WLM screen (Android)
-*   [her://meet/online](her://meet/online) Open Meet on Online Now (iOS) / Not supported (Android) 
+*   [her://meet/online](her://meet/online) Open Meet on Online Now (iOS) / Opens Online Now swiping screen (Android) 
 *   [her://onlinenow](her://onlinenow) Open Meet on Online Now (iOS) / Open Online Now (Android) 
 *   [her://meet/likedme](her://meet/likedme) Open Meet on WLM (iOS) / Open WLM screen (Android)
 *   [her://location](her://location) Open Meet and navigate to Change Location (iOS & Android)
 
 ## Chat
-*   [her://chats](her://chats) Open Chats tab (iOS) / { Android behavior needed}
-*   [her://chat/3620800](her://chat/3620800) Open Chat with user (iOS) / { Android behavior needed}
-*   [her://chat_init/3620800](her://chat_init/3620800) Open Chat with user (iOS) / { Android behavior needed}
-*   [her://chat_init_with_like/3620800](her://chat_init_with_like/3620800) Open Chat with user and like user (iOS) / { Android behavior needed}
+*   [her://chats](her://chats) Open Chats tab (iOS & Android)
+*   [her://chat/3620800](her://chat/3620800) Open Chat with user  (iOS & Android)
+*   [her://chat_init/3620800](her://chat_init/3620800) Open Chat with user  (iOS & Android)
+*   [her://chat_init_with_like/3620800](her://chat_init_with_like/3620800) Open Chat with user and like user (iOS & Android)
 
 ## Feed
+*   [her://feed/](her://feed/) Open post, after navigating to feed tab(iOS) / Open post details (Android)
 *   [her://feed/post/1](her://feed/post/1) Open post, after navigating to feed tab(iOS) / Open post details (Android)
 *   [her://feed/community/20](her://feed/community/20) Open Community, after navigation to feed tab (iOS) / Open Community details (Android)
 *   [her://community/20](her://community/20) Open Community, **NO** navigation to feed tab (iOS) / Not supported (Android) 
@@ -57,7 +58,7 @@
 
 ## Notifications
 *   [her://notifications](her://notifications) Open Notifications Tab
-*   [her://confirm_friends](her://confirm_friends) Open's Profile.  I don't think it confirms friendship? / { Android behavior needed}
+*   [her://confirm_friend/123](her://confirm_friend/123) Opens Profile with ID 123 and triggers a request to the /friends endpoint to confirm friend request. (iOS & Android)
 
 ## Boosts
 *   [her://boosts](her://boosts) If user has boosts open use boost page, else open purchase page (iOS) / Not supported (Android) 
@@ -77,13 +78,13 @@ Note: Any of the above URL params can be used in combination
 ## Settings
 *   [her://account_settings](her://account_settings) Open In-App Settings Page (iOS & Android)
 *   [her://account_settings/push](her://account_settings/push) Open OS Settings App for HER (iOS & Android)
-*   [her://account_settings/push_settings](her://account_settings/push_settings) Open Push Settings Page from HER Settings (iOS) / Not supported (Android) 
+*   [her://account_settings/push_settings](her://account_settings/push_settings) Open Push Settings Page from HER Settings (iOS) / Open OS Settings App for HER (Android) 
 *   [her://account_settings/account](her://account_settings/account) Open Account Information Page from HER Settings (iOS & Android)
 
 ## General
 *   ~~[her://mixher](her://mixher)~~  **deprecated, needs removal from clients**
-*   [her://filters](her://filters) Open Filters for Meet(no pre-nav) / { Android behavior needed}
-*   [her://verification](her://verification) Open Verification at whatever step user is at / { Android behavior needed}
+*   [her://filters](her://filters) Open Filters for Meet(no pre-nav) (iOS & Android)
+*   [her://verification](her://verification) Open Verification at whatever step user is at (iOS & Android)
 
 ## Universal links
 
