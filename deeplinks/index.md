@@ -18,17 +18,11 @@
 *   [her://my_profile/edit/properties/10](her://my_profile/edit/properties/10) Edit a Fun Fact type
 *   [her://my_profile/edit/properties/18](her://my_profile/edit/properties/18) Edit Pride Pins
 
-### Needs implementation on Both Clients
-*   [her://my_profile/events](her://my_profile/events) My Events Page
-*   [her://my_profile/feed](her://my_profile/feed) My Feed Page
+
 
 ## User 
 *   [her://user/3620800](her://user/3620800) User's Profile View
 *   [her://user/3620800/friends](her://user/3620800/friends) User's Friends Page
-
-### Needs implementation (maybe for completion's sake)
-*   [her://user/3620800/feed](her://user/3620800/feed) User's Feed
-*   [her://user/3620800/events](her://user/3620800/events) User's Events
 
 ## Meet
 *   [her://meet](her://meet) Open Meet on Browse. (iOS & Android)
@@ -91,4 +85,15 @@ Note: Any of the above URL params can be used in combination
 *   [https://weareher.com/feed/posts/1241](https://weareher.com/feed/posts/1241) A feed post
 *   [https://weareher.com/shared-profile?u=Z0pR9p5Ewmv3](https://weareher.com/shared-profile?u=Z0pR9p5Ewmv3) Profile in prod
 *   [https://testing.weareher.com/shared-profile?u=bJO69Y19Bkvr](https://testing.weareher.com/shared-profile?u=bJO69Y19Bkvr) Profile in testing
+
+
+---
+
+
+### Suggested links for future implementation (for completion's sake)
+*   [her://user/3620800/feed](her://user/3620800/feed) User's Feed
+*   [her://user/3620800/events](her://user/3620800/events) User's Events
+
+*   [her://my_profile/events](her://my_profile/events) My Events Page
+*   [her://my_profile/feed](her://my_profile/feed) My Feed Page
 
