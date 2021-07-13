@@ -7,11 +7,12 @@
 *   [her://my_profile/friends](her://my_profile/friends) My Friends Page
 *   ~~[her://my_profile/preview](her://my_profile/preview)~~ Deprecated, fallsback to My Profile page.
 
-### Questions (In Development)
+### Questions
 *   [her://my_profile/edit/questions/1](her://my_profile/edit/questions/1) Open question with id 1
 *   [her://my_profile/edit/questions](her://my_profile/edit/questions) Open questions
 
 ### Properties By Type
+To edit a profile property, we need to find out the ID for that property and link to `her://my_profile/edit/properties/{property_id}`. Some examples:
 *   [her://my_profile/edit/properties/1](her://my_profile/edit/properties/1) Edit Height
 *   [her://my_profile/edit/properties/4](her://my_profile/edit/properties/4) Edit an Identity type
 *   [her://my_profile/edit/properties/5](her://my_profile/edit/properties/5) Edit Bio
