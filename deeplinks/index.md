@@ -11,6 +11,9 @@
 *   [her://my_profile/edit/questions/1](her://my_profile/edit/questions/1) Open question with id 1
 *   [her://my_profile/edit/questions](her://my_profile/edit/questions) Open questions
 
+### Top Artists
+*   [her://my_profile/edit/topartists](her://my_profile/edit/topartists) Open profile editing screen and scroll down to Top Artists
+
 ### Properties By Type
 To edit a profile property, we need to find out the ID for that property and link to `her://my_profile/edit/properties/{property_id}`. Some examples:
 *   [her://my_profile/edit/properties/1](her://my_profile/edit/properties/1) Edit Height
