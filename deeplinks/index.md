@@ -5,6 +5,7 @@
 *   [her://my_profile](her://my_profile) My Profile Page
 *   [her://my_profile/edit](her://my_profile/edit) Edit Profile page
 *   [her://my_profile/friends](her://my_profile/friends) My Friends Page
+*   [her://completion](her://completion) Opens the Profile completion flow
 *   ~~[her://my_profile/preview](her://my_profile/preview)~~ Deprecated, fallsback to My Profile page.
 
 ### Questions
