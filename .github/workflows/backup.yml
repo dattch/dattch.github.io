@@ -1,0 +1,22 @@
+name: S3-Backup
+
+on:
+  push:
+    branches: [ main ]
+
+  workflow_dispatch:
+
+
+jobs:
+  s3Backup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: S3 Backup
+        uses: peter-evans/s3-backup@v1
+        env:
+          ACCESS_KEY_ID: ${{ secrets.HER_BACKUP_API_KEY }}
+          MIRROR_TARGET: her-gh-backup/datch_github_io
+          SECRET_ACCESS_KEY: ${{ secrets.HER_BACKUP_SECRET_KEY }}
+        with:
+          args: --overwrite --remove
