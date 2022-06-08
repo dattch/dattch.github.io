@@ -3,8 +3,10 @@
 
 ## Meet
 *   [her://meet](her://meet) Open Meet on Browse. (iOS & Android)
+*   [her://meet/nearby](her://meet/nearby) Open Meet on nearby
 *   [her://meet/likedme](her://meet/likedme) Open Meet on WLM (iOS & Android) 
 *   [her://meet/online](her://meet/online) Open Meet on Online Now (iOS) / Opens Online Now swiping screen (Android) 
+*   [her://nearby](her://nearby) Open Meet on nearby
 *   [her://likedme](her://likedme) Open Meet on WLM (iOS) / Open WLM screen (Android)
 *   [her://onlinenow](her://onlinenow) Open Meet on Online Now (iOS) / Open Online Now (Android) 
 *   [her://location](her://location) Open Meet and navigate to Change Location (iOS & Android).  Opens PPP if not a premium user.
