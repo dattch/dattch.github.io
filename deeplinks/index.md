@@ -66,11 +66,11 @@ Note: alternatively, use username instead of user id, such as [her://user/ZVm2Xp
 Note 2: Alt format that supports only username is [her://profiles/ZVm2XpL7G235](her://profiles/ZVm2XpL7G235)
 
 ## Boosts
-*   [her://boosts](her://boosts) If user has boosts open use boost page, else open purchase page (iOS) / Not supported (Android) 
+*   [her://boosts](her://boosts) If user has boosts open use boost page, else open purchase page (iOS & Android) 
     #### Query Params for her://boosts
-*   [her://boosts?open=buy](her://boosts?open=buy) Open boosts purchase page regardless of number of boosts (iOS) / Not supported (Android) 
-*   [her://boosts?origin_identifier=test_identifier](her://boosts) Same as her://boosts but change the origin of the purchase page (iOS) / Not supported (Android) 
-*   [her://boosts?success_origin_identifier=success_test_identifier](her://boosts) Same as her://boosts but change the origin of the success / usage page (iOS) / Not supported (Android) 
+*   [her://boosts?open=buy](her://boosts?open=buy) Open boosts purchase page regardless of number of boosts (iOS) / open boost purchase page (Android) 
+*   [her://boosts?origin_identifier=test_identifier](her://boosts) Same as her://boosts but change the origin of the purchase page (iOS & Android) 
+*   [her://boosts?success_origin_identifier=success_test_identifier](her://boosts) Same as her://boosts but change the origin of the success / usage page (iOS) / open boost purchase page (Android) 
 
 Note: Any of the above URL params can be used in combination
 
