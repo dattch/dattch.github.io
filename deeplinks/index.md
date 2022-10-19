@@ -5,10 +5,12 @@
 *   [her://meet](her://meet) Open Meet on Browse. (iOS & Android)
 *   [her://meet/nearby](her://meet/nearby) Open Meet on nearby
 *   [her://meet/likedme](her://meet/likedme) Open Meet on WLM (iOS & Android) 
-*   [her://meet/online](her://meet/online) Open Meet on Online Now (iOS) / Opens Online Now swiping screen (Android) 
+*   [her://meet/online](her://meet/online) Open Meet on Online Now (iOS) / Opens Online Now swiping screen (Android)
+*   [her://meet/views](her://meet/views) Open Meet on views
 *   [her://nearby](her://nearby) Open Meet on nearby, iOS only
 *   [her://likedme](her://likedme) Open Meet on WLM (iOS) / Open WLM screen (Android)
-*   [her://onlinenow](her://onlinenow) Open Meet on Online Now (iOS) / Open Online Now (Android) 
+*   [her://onlinenow](her://onlinenow) Open Meet on Online Now (iOS) / Open Online Now (Android)
+*   [her://views](her://views) Open Meet on views 
 *   [her://location](her://location) Open Meet and navigate to Change Location (iOS & Android).  Opens PPP if not a premium user.
 *   [her://filters](her://filters) Open Filters for Meet(no pre-nav) (iOS & Android)
 
