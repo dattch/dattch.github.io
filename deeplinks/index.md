@@ -44,6 +44,7 @@
 *   [her://my_profile/topartists](her://my_profile/topartists) Open edit page and scroll to spotify section
 *   [her://my_profile/edit](her://my_profile/edit) Edit Profile page
 *   [her://my_profile/edit/topartists](her://my_profile/edit/topartists) Open edit page and scroll to spotify section
+*   [her://my_profile/edit/instagram](her://my_profile/edit/instagram) Open edit page and scroll to instagram section
 *   [her://my_profile/edit/questions](her://my_profile/edit/questions) Open questions page
 *   [her://my_profile/edit/questions/17](her://my_profile/edit/questions/17) Open question with id 17
 To edit a profile property, we need to find out the ID for that property and link to `her://my_profile/edit/properties/{property_id}`. Some examples:
