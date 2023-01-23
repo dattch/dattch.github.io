@@ -26,8 +26,8 @@
 *   [her://feed/filters](her://feed/filters) Open Feed filters, after navigation to feed tab (iOS & Android)
 *   [her://feed/events](her://feed/events) Open Events list tab, after navigation to feed tab (iOS) / Not supported (Android) 
 *   [her://events](her://events) Open Events list tab, after navigation to feed tab (iOS - **needs update to not navigate to feed**) / Not supported (Android) 
-*   [her://community/44](her://community/44) Open Community, **NO** navigation to feed tab (iOS) / Not supported (Android) 
-*   [her://event/353](her://event/353) Open Event, direct navigation (iOS) / Not supported (Android) 
+*   [her://community/44](her://community/44) Open Community, **NO** navigation to feed tab (iOS & Android)
+*   [her://event/353](her://event/353) Open Event, direct navigation (iOS & Android)
 
 ## Notifications
 *   [her://notifications](her://notifications) Open Notifications Tab
