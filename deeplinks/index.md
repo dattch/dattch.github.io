@@ -11,6 +11,7 @@
 *   [her://onlinenow](her://onlinenow) Open Meet on Online Now (iOS) / Open Online Now (Android) 
 *   [her://location](her://location) Open Meet and navigate to Change Location (iOS & Android).  Opens PPP if not a premium user.
 *   [her://filters](her://filters) Open Filters for Meet(no pre-nav) (iOS & Android)
+*   [her://views](her://views) Open Views (iOS & Android)
 
 ## Chat
 *   [her://chats](her://chats) Open Chats tab (iOS & Android)
