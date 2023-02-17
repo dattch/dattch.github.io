@@ -63,6 +63,7 @@ To edit a profile property, we need to find out the ID for that property and lin
 *   [her://account_settings/push_settings](her://account_settings/push_settings) Open Push Settings Page from HER Settings (iOS) / Open OS Settings App for HER (Android) 
 *   [her://account_settings/account](her://account_settings/account) Open Account Information Page from HER Settings (iOS & Android)
 *   [her://account_settings/community] (her://account_settings/community) Open community subscription if user is not subscribed or if otherwise open manange subscriptions settings (iOS)
+*   [her://account_settings/privacy] (her://account_settings/privacy) iOS only, Open privacy page, where user can enable biometrics app locking, request data, delete data, etc.
 
 ## User 
 *   [her://user/3620800](her://user/3620800) User's Profile View
