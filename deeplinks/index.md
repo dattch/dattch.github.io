@@ -1,19 +1,28 @@
 # HER Deeplinks
+
+## ACTIVE AB TEST CHANGE
+There is an active AB test going on with the "Notifications Assemble" epic.  This has changed a few behaviors for the `test` case.  
+`her://notifications/matches` will open the chats inbox page.  
+`her://notifications/likes` and all variants of this, will open discover on the first tab (formerly WLM, now spotlight lives there)
+`her://notifications` will open discover by default, going to spotlight.
+`her://notifications/communities` will direct to the feed tab and then open the community notifications.
+
+
+## General
 *   [her://](her://) Open app
 
 ## Meet
-*   [her://meet](her://meet) Open Meet on Browse. (iOS & Android)
-*   [her://meet/nearby](her://meet/nearby) Open Meet on nearby
-*   [her://meet/likedme](her://meet/likedme) Open Meet on WLM (iOS & Android) 
-*   [her://meet/online](her://meet/online) Open Meet on Online Now (iOS) / Opens Online Now swiping screen (Android)
-*   [her://meet/views](her://meet/views) Open Meet on views, iOS only
-*   [her://nearby](her://nearby) Open Meet on nearby, iOS only
-*   [her://likedme](her://likedme) Open Meet on WLM (iOS) / Open WLM screen (Android)
-*   [her://onlinenow](her://onlinenow) Open Meet on Online Now (iOS) / Open Online Now (Android)
-*   [her://views](her://views) Open Meet on views, iOS only 
+*   [her://meet](her://meet) Open Browse (aka Meet). (iOS & Android)
+*   [her://meet/nearby](her://meet/nearby) Open discover on nearby
+*   [her://meet/likedme](her://meet/likedme) Open discover on WLM (iOS & Android) 
+*   [her://meet/online](her://meet/online) Open discover on Online Now (iOS) / Opens Online Now swiping screen (Android)
+*   [her://meet/views](her://meet/views) Open discover on views, iOS only
+*   [her://nearby](her://nearby) Open discover on nearby, iOS only
+*   [her://likedme](her://likedme) Open discover on WLM (iOS) / Open WLM screen (Android)
+*   [her://onlinenow](her://onlinenow) Open discover on Online Now (iOS) / Open Online Now (Android)
+*   [her://views](her://views) Open Views (iOS & Android) (on iOS, this opens the Discover tab first before selecting views sub-tab)
 *   [her://location](her://location) Open Meet and navigate to Change Location (iOS & Android).  Opens PPP if not a premium user.
 *   [her://filters](her://filters) Open Filters for Meet(no pre-nav) (iOS & Android)
-*   [her://views](her://views) Open Views (iOS & Android)
 
 ## Chat
 *   [her://chats](her://chats) Open Chats tab (iOS & Android)
@@ -79,6 +88,8 @@ Note 2: Alt format that supports only username is [her://profiles/ZVm2XpL7G235](
 *   [her://boosts?success_origin_identifier=success_test_identifier](her://boosts) Same as her://boosts but change the origin of the success / usage page (iOS) / open boost purchase page (Android) 
 
 Note: Any of the above URL params can be used in combination
+
+her://boosts?campaign_id={YOUR_CAMPAIGN_ID} will grant a free thirst mode / boost token, and then open the token acquired success page (ios) or the ledger (android).  If the campaign_id has already been consumed by that user, then there will be an error toast.
 
 ## Premium
 *   [her://premium](her://premium) Open PPP (iOS & Android)
