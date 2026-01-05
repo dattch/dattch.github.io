@@ -174,14 +174,17 @@ success_origin_identifier is tracking for success page
 | 47 | [Music and Podcasts](her://community/47) |
 
 ## Preset Filter IDs
-- 1 Compatible Goals
-- 2 Recently Online
-- 3 Outdoorsy Queers
-- 4 Inked Girlies
-- 5 Femme
-- 6 Masc
-- 7 T4T
-- 8 New Likes
+
+| ID | Preset |
+|----|----------|
+| 1  | [Compatible Goals](her://meet/preset/1) |
+| 2  | [Recently Online](her://meet/preset/2) |
+| 3 | [Outdoorsy Queers](her://meet/preset/3) |
+| 4 | [Inked Girlies](her://meet/preset/4) |
+| 5 | [Femme](her://meet/preset/5) |
+| 6 | [Masc](her://meet/preset/6) |
+| 7 | [T4T](her://meet/preset/7) |
+| 8 | [New Likes](her://meet/preset/8) |
 
 ## Store Review Links
 - https://apps.apple.com/app/id573328837?action=write-review
