@@ -53,8 +53,9 @@
     No chart for questions list exists on this page.  Please ask in Slack for relevat question IDs.
     
 - [her://my_profile/feelings?source=SOURCE&style=STYLE](her://my_profile/feelings?source=SOURCE&style=STYLE) 
-    Replace STYLE with either `halfsheet` or `fullscreen` (iOS)
-    Replace SOURCE with an identifier to add to tracking data. Otherwise, `not_specified` is the source. (iOS)
+  **Instructions (iOS):**
+  - Replace `STYLE` with either `halfsheet` or `fullscreen`.
+  - Replace `SOURCE` with an identifier to add to tracking data. If not specified, use `not_specified`.
 
 ### Profile Property Editing
 - [her://my_profile/edit/properties/{PROPERTY_ID}](her://my_profile/edit/properties/{PROPERTY_ID}) — Append `?half=true` to show as half-sheet (iOS)
@@ -86,6 +87,8 @@ Origin_identifier is tracking ID
 - [her://boosts?success_origin_identifier=ID](her://boosts?success_origin_identifier=ID)
 success_origin_identifier is tracking for success page 
 - [her://boosts/apply?campaign_id=ID](her://boosts/apply?campaign_id=ID)
+  **Instructions:**
+    - will grant a free thirst mode / boost token, and then open the token acquired success page (ios) or the ledger (android). If the campaign_id has already been consumed by that user, then there will be an error toast. campaign_id must be registered with the backend.
 
 
 
