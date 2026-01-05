@@ -59,35 +59,6 @@
 ### Profile Property Editing
 - [her://my_profile/edit/properties/{PROPERTY_ID}](her://my_profile/edit/properties/{PROPERTY_ID}) — Append `?half=true` to show as half-sheet (iOS)
 
-#### Property IDs
-| ID | Property |
-|----|----------|
-| 1  | Height |
-| 2  | Gender |
-| 3  | Relationship status |
-| 4  | Sexuality identity |
-| 5  | About |
-| 6  | Pronoun |
-| 7  | Sex |
-| 8  | Looking for |
-| 9  | Drinking |
-| 10 | Cigarettes |
-| 11 | Cannabis |
-| 12 | Political views |
-| 13 | Religion |
-| 14 | Diet |
-| 15 | Star sign |
-| 16 | Pets |
-| 17 | Kids |
-| 18 | Pride pins |
-| 19 | Interests |
-| 21 | Relationship style |
-| 22 | Hometown location |
-| 23 | Resides location |
-| 24 | Relationship goal |
-| 25 | Sex |
-| 26 | Intimacy |
-| 27 | Kink |
 
 ## Settings
 - [her://account_settings](her://account_settings) — Settings
@@ -136,7 +107,39 @@ success_origin_identifier is tracking for success page
 - https://weareher.com/shared-event/EVENT_ID
 - https://share.weareher.com/shared-profile?u=USER_ID
 
+## Property IDs
+
+| ID | Property |
+|----|----------|
+| 1  | Height |
+| 2  | Gender |
+| 3  | Relationship status |
+| 4  | Sexuality identity |
+| 5  | About |
+| 6  | Pronoun |
+| 7  | Sex |
+| 8  | Looking for |
+| 9  | Drinking |
+| 10 | Cigarettes |
+| 11 | Cannabis |
+| 12 | Political views |
+| 13 | Religion |
+| 14 | Diet |
+| 15 | Star sign |
+| 16 | Pets |
+| 17 | Kids |
+| 18 | Pride pins |
+| 19 | Interests |
+| 21 | Relationship style |
+| 22 | Hometown location |
+| 23 | Resides location |
+| 24 | Relationship goal |
+| 25 | Sex |
+| 26 | Intimacy |
+| 27 | Kink |
+
 ## Communities
+
 | ID | Community |
 |----|----------|
 | 8  | HERCommunity |
