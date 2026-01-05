@@ -111,32 +111,32 @@ success_origin_identifier is tracking for success page
 
 | ID | Property |
 |----|----------|
-| 1  | Height |
-| 2  | Gender |
-| 3  | Relationship status |
-| 4  | Sexuality identity |
-| 5  | About |
-| 6  | Pronoun |
-| 7  | Sex |
-| 8  | Looking for |
-| 9  | Drinking |
-| 10 | Cigarettes |
-| 11 | Cannabis |
-| 12 | Political views |
-| 13 | Religion |
-| 14 | Diet |
-| 15 | Star sign |
-| 16 | Pets |
-| 17 | Kids |
-| 18 | Pride pins |
-| 19 | Interests |
-| 21 | Relationship style |
-| 22 | Hometown location |
-| 23 | Resides location |
-| 24 | Relationship goal |
-| 25 | Sex |
-| 26 | Intimacy |
-| 27 | Kink |
+| 1  | [Height](her://my_profile/edit/properties/1) |
+| 2  | [Gender](her://my_profile/edit/properties/2) |
+| 3  | [Relationship status](her://my_profile/edit/properties/3) |
+| 4  | [Sexuality identity](her://my_profile/edit/properties/4) |
+| 5  | [About](her://my_profile/edit/properties/5) |
+| 6  | [Pronoun](her://my_profile/edit/properties/6) |
+| 7  | [Sex](her://my_profile/edit/properties/7) |
+| 8  | [Looking for](her://my_profile/edit/properties/8) |
+| 9  | [Drinking](her://my_profile/edit/properties/9) |
+| 10 | [Cigarettes](her://my_profile/edit/properties/10) |
+| 11 | [Cannabis](her://my_profile/edit/properties1) |
+| 12 | [Political views](her://my_profile/edit/properties/12) |
+| 13 | [Religion](her://my_profile/edit/properties/13) |
+| 14 | [Diet](her://my_profile/edit/properties/14) |
+| 15 | [Star sign](her://my_profile/edit/properties/15) |
+| 16 | [Pets](her://my_profile/edit/properties/16) |
+| 17 | [Kids](her://my_profile/edit/properties/17) |
+| 18 | [Pride pins](her://my_profile/edit/properties/18) |
+| 19 | [Interests](her://my_profile/edit/properties/19) |
+| 21 | [Relationship style](her://my_profile/edit/properties/21) |
+| 22 | [Hometown location](her://my_profile/edit/properties/22) |
+| 23 | [Resides location](her://my_profile/edit/properties/23) |
+| 24 | [Relationship goal](her://my_profile/edit/properties/34) |
+| 25 | [Sex](her://my_profile/edit/properties/25) |
+| 26 | [Intimacy](her://my_profile/edit/properties/26) |
+| 27 | [Kink](her://my_profile/edit/properties/27) |
 
 ## Communities
 
