@@ -90,8 +90,6 @@ success_origin_identifier is tracking for success page
   **Instructions:**
     - will grant a free thirst mode / boost token, and then open the token acquired success page (ios) or the ledger (android). If the campaign_id has already been consumed by that user, then there will be an error toast. campaign_id must be registered with the backend.
 
-
-
 ## Premium
 - [her://premium](her://premium)
 - [her://premium/VOUCHER](her://premium/VOUCHER) - Deprecated with HERON.  
@@ -106,9 +104,9 @@ success_origin_identifier is tracking for success page
 - [her://completion](her://completion)
 
 ## Universal Links
-- https://weareher.com/shared-post/POST_ID
-- https://weareher.com/shared-event/EVENT_ID
-- https://share.weareher.com/shared-profile?u=USER_ID
+- [https://weareher.com/shared-post/POST_ID](https://weareher.com/shared-post/POST_ID)
+- [https://weareher.com/shared-event/EVENT_ID](https://weareher.com/shared-event/EVENT_ID])
+- [https://share.weareher.com/shared-profile?u=USER_ID](https://share.weareher.com/shared-profile?u=USER_ID)
 
 ## Property IDs
 
