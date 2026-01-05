@@ -142,36 +142,36 @@ success_origin_identifier is tracking for success page
 
 | ID | Community |
 |----|----------|
-| 8  | HERCommunity |
-| 9  | Movies and TV Shows |
-| 10 | Traveling and Living Abroad |
-| 13 | 40+ Community |
-| 15 | Mindfulness |
-| 18 | Queer Women of Color |
-| 19 | Trans Women |
-| 23 | Artists and Musicians and Creators |
-| 24 | Pro Sports and Athletes |
-| 25 | Trans Man |
-| 26 | Nonbinary |
-| 28 | Recipes & Foodies |
-| 29 | Non-monogamy |
-| 30 | Coming Out Advice & Conversation |
-| 31 | Lesbian |
-| 32 | Bisexual |
-| 33 | Thirst Trap |
-| 34 | Gaming |
-| 35 | Pets and Animals |
-| 36 | Good Vibes Only |
-| 38 | Activism and Social Justice |
-| 39 | Beauty and Fashion |
-| 40 | LGBTQ Parents + Families |
-| 41 | In Search of Love and Dating |
-| 42 | In Search of Friends |
-| 43 | Body Positive and Plus Size |
-| 44 | Astrology, Horoscope, etc |
-| 45 | Writing and Poetry |
-| 46 | Asexual |
-| 47 | Music and Podcasts |
+| 8  | [HERCommunity](her://community/8) |
+| 9  | [Movies and TV Shows](her://community/9) |
+| 10 | [Traveling and Living Abroad](her://community/10) |
+| 13 | [40+ Community](her://community/13) |
+| 15 | [Mindfulness](her://community/15) |
+| 18 | [Queer Women of Color](her://community/18) |
+| 19 | [Trans Women](her://community/19) |
+| 23 | [Artists and Musicians and Creators](her://community/23) |
+| 24 | [Pro Sports and Athletes](her://community/24) |
+| 25 | [Trans Man ](her://community/25)|
+| 26 | [Nonbinary](her://community/26) |
+| 28 | [Recipes & Foodies](her://community/28) |
+| 29 | [Non-monogamy](her://community/19) |
+| 30 | [Coming Out Advice & Conversation](her://community/30) |
+| 31 | [Lesbian](her://community/31) |
+| 32 | [Bisexual](her://community/32) |
+| 33 | [Thirst Trap](her://community/33) |
+| 34 | [Gaming](her://community/34) |
+| 35 | [Pets and Animals](her://community/35) |
+| 36 | [Good Vibes Only](her://community/36) |
+| 38 | [Activism and Social Justice](her://community/38) |
+| 39 | [Beauty and Fashion](her://community/39) |
+| 40 | [LGBTQ Parents + Families](her://community/40) |
+| 41 | [In Search of Love and Dating](her://community/41) |
+| 42 | [In Search of Friends](her://community/42) |
+| 43 | [Body Positive and Plus Size](her://community/43) |
+| 44 | [Astrology, Horoscope, etc](her://community/44) |
+| 45 | [Writing and Poetry](her://community/45) |
+| 46 | [Asexual](her://community/46) |
+| 47 | [Music and Podcasts](her://community/47) |
 
 ## Preset Filter IDs
 - 1 Compatible Goals
