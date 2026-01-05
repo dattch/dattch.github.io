@@ -136,7 +136,7 @@ success_origin_identifier is tracking for success page
 | 21 | [Relationship style](her://my_profile/edit/properties/21) |
 | 22 | [Hometown location](her://my_profile/edit/properties/22) |
 | 23 | [Resides location](her://my_profile/edit/properties/23) |
-| 24 | [Relationship goal](her://my_profile/edit/properties/34) |
+| 24 | [Dating goal](her://my_profile/edit/properties/24) |
 | 25 | [Sex](her://my_profile/edit/properties/25) |
 | 26 | [Intimacy](her://my_profile/edit/properties/26) |
 | 27 | [Kink](her://my_profile/edit/properties/27) |
