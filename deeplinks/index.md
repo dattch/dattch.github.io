@@ -78,6 +78,15 @@
 - [her://user/{USERNAME}](her://user/{USERNAME}) — Profile by username
 - [her://profiles/{USERNAME}](her://profiles/{USERNAME}) — Username-only profile
 
+## Wildflowers
+
+- [her://wildflowers](her://wildflowers)
+    - Goes straight to paywall if they have no wildflowers; and goes to the inventory halfsheet if they have wildflowers
+- [her://wildflowers/apply?campaign_id={YOUR_CAMPAIGN_ID}](her://wildflowers/apply?campaign_id={YOUR_CAMPAIGN_ID}) Grants the use a free Wildflower. `campaign_id` needs to be an existing voucher from the dashboard (iOS & Android)
+    - campaign_id must be registered with the backend.
+    - if already redeemed or invalid campaign_id; error code to be displayed
+    - will grant ONE, and then open the info halfsheet page.
+    
 ## Boosts & Thirst Mode
 - [her://boosts](her://boosts)
 - [her://boosts/ledger](her://boosts/ledger)
