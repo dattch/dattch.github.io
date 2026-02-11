@@ -83,7 +83,7 @@
 - [her://wildflowers](her://wildflowers)
     - Goes straight to paywall if they have no wildflowers; and goes to the inventory halfsheet if they have wildflowers
 - [her://wildflowers/apply?campaign_id={YOUR_CAMPAIGN_ID}](her://wildflowers/apply?campaign_id={YOUR_CAMPAIGN_ID}) Grants the use a free Wildflower. `campaign_id` needs to be an existing voucher from the dashboard (iOS & Android)
-    - campaign_id must be registered with the backend.
+    - campaign_id must be a valid voucher setup in dashboard, in the vouchers section
     - if already redeemed or invalid campaign_id; error code to be displayed
     - will grant ONE, and then open the info halfsheet page.
     
